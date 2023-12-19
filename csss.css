@@ -1,0 +1,38 @@
+body{
+    background-color: #2ECC71;
+    
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+.hablar{
+    border: 1px solid #ccc; /* Borde sólido de color gris */
+    border-radius: 10px; /* Bordes redondeados */
+    padding: 10px;
+    background: black;
+    color: #ccc;
+
+}
+
+.detener{
+    border: 1px solid #ccc; /* Borde sólido de color gris */
+    border-radius: 10px; /* Bordes redondeados */
+    padding: 10px;
+    background: black;
+    color: #ccc;
+}
+
+textarea {
+    width: 80%;
+    height: 200px;
+    margin: 20px auto;
+    display: block;
+    border: 1px solid #ccc; /* Borde sólido de color gris */
+    border-radius: 10px; /* Bordes redondeados */
+    padding: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
